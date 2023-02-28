@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV FINAL</title>
+    <link rel= "stylesheet" href="stilocv.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap" rel="stylesheet">
+    
+</head>
+<section>
+<body>
+    
+    <header> 
+       
+        <h1> Vincent Willis</h1> 
+        
+    </header>
+    <section id="otra_caja">
+        <img src="vicentwillis.jpeg" alt="foto de vicent willis" height="200px" width="200px">
+
+         <h2>Informacion personal</h2>
+         <h3>Fecha de nacimiento 2/5/1976</h3>
+         <h3>Direccion 5299 Central St</h3>
+         <h3>Numero de telefono (844) 782-6958</h3>
+         <h3> <button id="boton">mostrar email</button></h3>
+        
+    
+        </section>
+       <p id="titulo">Formacion academica</p> 
+       <p>Pediatra</p>
+       <p>Curso de Desarrollo Web</p>
+       <p>Extremadamente malo para el diseño</p>
+    
+        
+    <footer> Necesito un buen desarrollador que me ayude con una PWA o app que tengo en mente para mejorar la atencion en salud publica y privada </footer>
+    </section>
+<script src="funcion.js"></script>
+</body>
+</html>

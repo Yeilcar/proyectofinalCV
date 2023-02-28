@@ -1,0 +1,32 @@
+
+
+body { font-family: 'Tilt Neon', cursive; background-color: rgb(241, 228, 228);}
+section {border: 10px solid brown;
+    padding: 4px; 
+    font-weight: 200 bold; 
+    font-size: medium;
+    color: blueviolet; 
+    margin: 20px;
+    width: 500px;
+}
+
+#otra_caja {border: 4px solid rgb(17, 150, 203);
+    padding: 2px; 
+    font-weight: 50 bold; 
+    font-size: medium;
+    color: blueviolet; 
+    margin: 20px;
+    width: 400px;}
+
+#titulo {font-size: medium;}
+h1 {font-size: xx-large; font-weight: 200; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: normal;}
+h2 {font-size: large; color: blueviolet;}
+h3{ font-size: small;}
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left: 216px;}
+  }
+  
+  p{font-size: smaller; color: blueviolet;}
+  footer{font-size: smaller; color: brown;}
+  
